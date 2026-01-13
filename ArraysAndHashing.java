@@ -41,3 +41,49 @@ class Solution {
         return false;
     }
 }
+
+/* --------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------- */
+
+// 242. Valid Anagram
+
+class Solution {
+    public boolean isAnagram(String s, String t) {
+        
+        // char[] cs = s.toCharArray();
+        // char[] ct = t.toCharArray();
+        if(s.length() != t.length()){
+            return false;
+        }
+
+        // Arrays.sort(cs);
+        // Arrays.sort(ct);
+
+         
+        // for(int i=0 ; i < cs.length ; i++){
+        //     if(cs[i]!=ct[i]){
+        //         return false;
+        //     }
+
+        // } 
+
+        int[] temp = new int[26];
+
+        for(int i=0 ; i < s.length() ; i++){
+            temp[s.charAt(i)-'a']++;
+            temp[t.charAt(i)-'a']--;
+
+        }
+        for(int i : temp){
+
+            if(i!=0){
+                return false;
+            }
+        }
+
+
+
+
+        return true; 
+    }
+}
