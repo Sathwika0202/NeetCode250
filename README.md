@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sathwika0202/NeetCode250/tree/master/0169-majority-element) |
 | [0705-design-hashset](https://github.com/Sathwika0202/NeetCode250/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sathwika0202/NeetCode250/tree/master/0706-design-hashmap) |
+| [1929-concatenation-of-array](https://github.com/Sathwika0202/NeetCode250/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/Sathwika0202/NeetCode250/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sathwika0202/NeetCode250/tree/master/0706-design-hashmap) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Sathwika0202/NeetCode250/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
