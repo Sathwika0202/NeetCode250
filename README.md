@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sathwika0202/NeetCode250/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Sathwika0202/NeetCode250/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Sathwika0202/NeetCode250/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Sathwika0202/NeetCode250/tree/master/0169-majority-element) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sathwika0202/NeetCode250/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Sathwika0202/NeetCode250/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sathwika0202/NeetCode250/tree/master/0217-contains-duplicate) |
 | [0705-design-hashset](https://github.com/Sathwika0202/NeetCode250/tree/master/0705-design-hashset) |
