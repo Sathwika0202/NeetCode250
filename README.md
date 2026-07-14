@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sathwika0202/NeetCode250/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Sathwika0202/NeetCode250/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sathwika0202/NeetCode250/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sathwika0202/NeetCode250/tree/master/0242-valid-anagram) |
 | [0705-design-hashset](https://github.com/Sathwika0202/NeetCode250/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sathwika0202/NeetCode250/tree/master/0706-design-hashmap) |
 ## Divide and Conquer
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sathwika0202/NeetCode250/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Sathwika0202/NeetCode250/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sathwika0202/NeetCode250/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sathwika0202/NeetCode250/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Sathwika0202/NeetCode250/tree/master/1929-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Sathwika0202/NeetCode250/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
